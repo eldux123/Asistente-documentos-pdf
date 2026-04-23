@@ -29,8 +29,6 @@ GEMINI_API_KEY="tu_key_aqui"
 
 Obtén tu key gratis en: https://aistudio.google.com/apikey
 
-> ⚠️ Nunca compartas tu API key públicamente. Google la detecta y la suspende automáticamente.
-
 ### PDF por defecto
 
 Descarga el paper "Attention is All You Need" y guárdalo con este nombre exacto en la misma carpeta:
