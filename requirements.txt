@@ -1,0 +1,4 @@
+pypdf
+gradio
+google-genai
+python-dotenv
